@@ -1,0 +1,12 @@
+C:\Users\Win10\source\repos\WinAPI-Sharp\WinAPI-Sharp\bin\Release\WinAPI.dll
+C:\Users\Win10\source\repos\WinAPI-Sharp\WinAPI-Sharp\bin\Release\WinAPI.pdb
+C:\Users\Win10\source\repos\WinAPI-Sharp\WinAPI-Sharp\obj\Release\WinAPI-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\WinAPI-Sharp\WinAPI-Sharp\obj\Release\WinAPI.dll
+C:\Users\Win10\source\repos\WinAPI-Sharp\WinAPI-Sharp\obj\Release\WinAPI.pdb
+C:\Users\Win10\source\repos\WinAPI-Sharp\WinAPI-Sharp\obj\Release\WinAPI-Sharp.csprojAssemblyReference.cache
+D:\Dev\WinAPI-Sharp-main\WinAPI-Sharp\bin\Release\Charis.dll
+D:\Dev\WinAPI-Sharp-main\WinAPI-Sharp\bin\Release\Charis.pdb
+D:\Dev\WinAPI-Sharp-main\WinAPI-Sharp\obj\Release\WinAPI-Sharp.csproj.AssemblyReference.cache
+D:\Dev\WinAPI-Sharp-main\WinAPI-Sharp\obj\Release\WinAPI-Sharp.csproj.CoreCompileInputs.cache
+D:\Dev\WinAPI-Sharp-main\WinAPI-Sharp\obj\Release\Charis.dll
+D:\Dev\WinAPI-Sharp-main\WinAPI-Sharp\obj\Release\Charis.pdb

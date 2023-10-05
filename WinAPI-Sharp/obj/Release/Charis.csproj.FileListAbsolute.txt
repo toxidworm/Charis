@@ -1,0 +1,6 @@
+D:\Dev\WinAPI-Sharp-main\WinAPI-Sharp\bin\Release\Charis.dll
+D:\Dev\WinAPI-Sharp-main\WinAPI-Sharp\bin\Release\Charis.pdb
+D:\Dev\WinAPI-Sharp-main\WinAPI-Sharp\obj\Release\Charis.csproj.AssemblyReference.cache
+D:\Dev\WinAPI-Sharp-main\WinAPI-Sharp\obj\Release\Charis.csproj.CoreCompileInputs.cache
+D:\Dev\WinAPI-Sharp-main\WinAPI-Sharp\obj\Release\Charis.dll
+D:\Dev\WinAPI-Sharp-main\WinAPI-Sharp\obj\Release\Charis.pdb
