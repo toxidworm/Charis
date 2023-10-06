@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Charis.Misc
+namespace Charis
 {
-    internal class Warning
+    public static class Warning
     {
         public static void Execute(string title, string message)
         {

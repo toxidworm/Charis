@@ -1,19 +1,10 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Charis.NT
+namespace Charis
 {
-    internal class NT
+    public static class NT
     {
-        public enum ExitWindowsAction
-        {
-            EWX_LOGOFF = 0,
-            EWX_SHUTDOWN = 1,
-            EWX_REBOOT = 2,
-            EWX_FORCE = 4,
-            EWX_POWEROFF = 8
-        }
-
         public enum NtStatus : uint
         {
             // Success
@@ -352,17 +343,8 @@ namespace Charis.NT
             TransactionRequiredPromotion = 0xc0190043,
             CannotExecuteFileInTransaction = 0xc0190044,
             TransactionsNotFrozen = 0xc0190045,
-
             MaximumNtStatus = 0xffffffff
         }
-
-        [DllImport("aygshell.dll", SetLastError = true)]
-        [return: MarshalAs(UnmanagedType.Bool)]
-        public static extern bool ExitWindowsEx([MarshalAs(UnmanagedType.U4)] uint dwFlags, [MarshalAs(UnmanagedType.U4)] uint dwReserved);
-
-        [DllImport("aygshell.dll", SetLastError = true)]
-        [return: MarshalAs(UnmanagedType.Bool)]
-        public static extern bool ExitWindowsEx([MarshalAs(UnmanagedType.U4)] ExitWindowsAction uFlags, [MarshalAs(UnmanagedType.U4)] uint dwReserved);
 
         [DllImport("ntdll.dll", SetLastError = true)]
         public static extern IntPtr RtlAdjustPrivilege(int Privilege, bool bEnablePrivilege, bool IsThreadPrivilege, out bool PreviousValue);

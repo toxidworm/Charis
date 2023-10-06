@@ -3,9 +3,9 @@ using System.Drawing;
 using System.Net.NetworkInformation;
 using System.Runtime.InteropServices;
 
-namespace Charis.GDI
+namespace Charis
 {
-    public class WinAPI
+    public class GDI
     {
         /// WinAPI Sharp
         // Coded by ToxidWorm
